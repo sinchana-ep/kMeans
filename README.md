@@ -1,3 +1,5 @@
+# kMeans from scratch
+
 This script implements the k-Means clustering from scratch with an optimization criterion that minimizes the sum of intra-cluster distances. Two data sets are given named Example and Gauss2 as tsv files which can be used to run the program. This script implements a k-Means with k = 3 and the initialization set to c1 = (0, 5), c2 = (0, 4) and c3 = (0, 3).
 
 To run the code give the following command: 
