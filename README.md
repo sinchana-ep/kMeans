@@ -10,4 +10,4 @@ For example, the script can be run as follows:
 
 ```python kMeans.py --data Example.tsv --output \output```
 
-The output of the program should will be two tsv files. One file contains the prototypes for each iteration (including initialization) and the other the optimization criteria.
+The output of the program will be two tsv files. One file contains the prototypes for each iteration (including initialization) and the other the optimization criteria.
